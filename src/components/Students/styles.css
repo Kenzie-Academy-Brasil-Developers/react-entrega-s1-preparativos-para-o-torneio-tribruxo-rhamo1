@@ -1,0 +1,22 @@
+.studentBox {
+  width: 311px;
+  height: 420px;
+  left: 252px;
+  top: 225px;
+  padding: 10px;
+
+  border: 5px solid #a40201;
+  box-sizing: border-box;
+  border-radius: 15px;
+}
+
+.studentBox img {
+  width: 100px;
+  height: 100px;
+}
+
+.studentContainer {
+  display: flex;
+  flex-direction: row;
+  padding: 30px;
+}
